@@ -1,0 +1,42 @@
+{
+    "users": {
+        "7199810839": {
+            "chat_id": "7199810839",
+            "first_name": "Sugarcloud",
+            "username": null,
+            "joined_at": "2026-02-13 14:33:35.473331",
+            "referred_by": null,
+            "referrals": 0,
+            "last_active": "2026-02-13 14:33:35.473341",
+            "status": "active",
+            "messages_sent": [
+                {
+                    "type": "welcome",
+                    "timestamp": "2026-02-13 14:33:37.407698"
+                },
+                {
+                    "type": "welcome",
+                    "timestamp": "2026-02-13 14:35:27.209582"
+                }
+            ]
+        },
+        "5515585149": {
+            "chat_id": "5515585149",
+            "first_name": "Ritesh",
+            "username": "lt0xic",
+            "joined_at": "2026-02-14 18:28:40.786882",
+            "referred_by": null,
+            "referrals": 0,
+            "last_active": "2026-02-14 18:28:40.786899",
+            "status": "active",
+            "messages_sent": [
+                {
+                    "type": "welcome",
+                    "timestamp": "2026-02-14 18:28:42.732409"
+                }
+            ]
+        }
+    },
+    "total_users": 2,
+    "settings": {}
+}
